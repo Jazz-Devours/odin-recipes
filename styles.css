@@ -1,0 +1,61 @@
+* {
+    background-color: darkolivegreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    max-height: 100%;
+    max-width: 80%;
+}
+
+h1,
+h2,
+p,
+ol,
+ul,
+li,
+a {
+    background-color: inherit;
+}
+
+p, h2, a {
+    text-align: left;
+    text-indent: 10px;
+}
+
+.thumbnail {
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 25px;
+    background-color: inherit;
+}
+
+div {
+    margin: 0% 15%;
+    padding: 10px;
+    background-color: beige;
+    border-radius: 50px;
+    text-align: center;
+}
+
+figure {
+    background-color: goldenrod;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+    border-radius: 10px;
+    border-style: double;
+    float: left;
+}
+
+figcaption {
+    background-color: inherit;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+li {
+    text-align: left;
+    margin: 2px;
+}
