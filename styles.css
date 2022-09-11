@@ -18,6 +18,10 @@ a {
     background-color: inherit;
 }
 
+.center {
+    text-align: center;
+}
+
 p, h2, a {
     text-align: left;
     text-indent: 10px;
